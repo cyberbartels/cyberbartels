@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberbartels
-- 👀 I’m interested in ...
-- :shipit: I’m currently learning git, ESP32 stuff
+- 👀 I’m interested in C# and web development
+- :shipit: I’m currently learning Azure Web PubSub, Static Web Apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: just leave a message here
 
